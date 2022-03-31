@@ -1,0 +1,19 @@
+/* Untuk tablets */
+@media (max-width: 1000px) {
+    .calculator {
+        text-align: center;
+        margin: 0 auto;
+        padding-top: 60px;
+        width: 400px;
+    }
+}
+
+/* Untuk smartphone */
+@media (max-width: 670px) {
+    .calculator {
+        text-align: center;
+        margin: 0 auto;
+        padding-top: 60px;
+        width: 350px;
+    }
+}
